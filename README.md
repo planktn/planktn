@@ -29,14 +29,6 @@
 
 | [ArrayList](https://github.com/planktn/java/blob/main/Mini_Grocery.java) |
 | [HashMap](https://github.com/planktn/java/blob/main/Grocery_Manager.java)|
-    
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=planktn&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=planktn&theme=tokyonight" height="150" />
-</p>
 
 ---
 
