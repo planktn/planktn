@@ -6,7 +6,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 > *“I used to steal the Krabby Patty formula… now I steal bugs from my code.”*
 
 - 🧑‍💻 Learning Java, Spring Boot & AI integration  
@@ -25,7 +25,7 @@
 
 ---
 
-###Collections learned
+### 🧠 Collections learned
 
 | [ArrayList](https://github.com/planktn/java/blob/main/Mini_Grocery.java) |
 | [HashMap](https://github.com/planktn/java/blob/main/Grocery_Manager.java)|
