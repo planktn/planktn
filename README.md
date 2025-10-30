@@ -1,4 +1,4 @@
-<h1 align="center">👾 Plankton — The Code Villain 👾</h1>
+<h1 align="center">👾 Plankton 👾</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7btY4mD2fXxA2XJu/giphy.gif" width="200" />
