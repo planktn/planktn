@@ -20,7 +20,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,git,github,docker,postgresql,linux,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,spring,git,github,vscode" />
 </p>
 
 ---
