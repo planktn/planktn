@@ -25,6 +25,12 @@
 
 ---
 
+###Collections learned
+
+| [ArrayList](https://github.com/planktn/java/blob/main/Mini_Grocery.java) |
+| [HashMap](https://github.com/planktn/java/blob/main/Grocery_Manager.java)|
+    
+
 ### 📊 GitHub Stats
 
 <p align="center">
