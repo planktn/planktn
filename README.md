@@ -25,15 +25,6 @@
 
 ---
 
-### 🧪 Projects in the Lab
-| 🔬 Project | 💡 Description |
-|------------|----------------|
-| [Mini Grocery](https://github.com/planktn/mini-grocery) | Java console app for managing groceries |
-| [Spring Doom API](https://github.com/planktn/spring-doom-api) | REST API built to conquer the backend world |
-| [AI Formula](https://github.com/planktn/ai-formula) | Experimenting with AI integrations in Java |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
