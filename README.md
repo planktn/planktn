@@ -29,6 +29,8 @@
 
 | [ArrayList](https://github.com/planktn/java/blob/main/Mini_Grocery.java) |
 | [HashMap](https://github.com/planktn/java/blob/main/Grocery_Manager.java)|
+| [HashSet](https://github.com/planktn/java/blob/main/Unique_Items.java)|
+| [TreeSet](https://github.com/planktn/java/blob/main/class_registration.java)|
 
 ---
 
