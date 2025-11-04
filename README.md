@@ -34,6 +34,10 @@
 
 ---
 
+### Simple Programs
+| [Course_Registration_System](https://github.com/planktn/java/blob/main/Course_Registration_System.java)|
+
+
 ### 💬 Fun Fact
 > I don’t fail builds — I call them *experiments gone wrong*. 🧪  
 
